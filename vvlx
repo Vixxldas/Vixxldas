@@ -6,7 +6,7 @@
 ██║  ██║███████╗███████╗██║╚██████╔╝███████║╚██████╔╝
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ 
                                                      
-Made By Sage#8437                                                  
+Made By Vix                                                  
 Open Source   
 I love you 😘
 Age-Of-Heros
@@ -1459,10 +1459,10 @@ end);
 KSection:NewKeybind("Toggle UI", "", Enum.KeyCode.RightShift, function()
 	Library:ToggleUI();
 end);
-local MainSection = Tab:NewSection("Made By Sage#8437");
-local TargetSection = TargetTab:NewSection("Made By Sage#8437");
+local MainSection = Tab:NewSection("Made By Vix");
+local TargetSection = TargetTab:NewSection("Made By Vix");
 local SSection = STab:NewSection("Made By Sage#8437");
-local StatSection = StatTab:NewSection("Made By Sage#8437");
-local TSection = TTab:NewSection("Made By Sage#8437");
-local MSection = MTab:NewSection("Made By Sage#8437");
-local KSection = KTab:NewSection("Made By Sage#8437");
+local StatSection = StatTab:NewSection("Made By Vix");
+local TSection = TTab:NewSection("Made By Vix");
+local MSection = MTab:NewSection("Made By Vix");
+local KSection = KTab:NewSection("Made By Vix");
